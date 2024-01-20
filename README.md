@@ -5,12 +5,12 @@
 ## 💫 About Me:
 🌱 I’m currently learning full stack web development<br>💬 Ask me about web dev and graphic design<br>📫 How to reach me : santoshjamesofficial@gmail.com<br>🍗 Code hot, wings hotter. My development philosophy in a nutshell
 
-<br>
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santoshjames) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notcadburyjames)
 
-<br>
+<br/>
 
 ## 💻 Tech Stack:
 
@@ -34,7 +34,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Santosh-James&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Santosh-James&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santosh-James&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-James&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
